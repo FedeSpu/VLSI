@@ -1,0 +1,4 @@
+max_width = 10;
+n_blocks = 6;
+width = [3, 4, 3, 4, 3, 3];
+height = [7, 6, 6, 4, 4, 3];

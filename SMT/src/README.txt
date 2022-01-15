@@ -1,0 +1,1 @@
+SMT: run it and all the result will be printed in directory out 
