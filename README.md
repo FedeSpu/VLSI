@@ -17,4 +17,4 @@ number of blocks
 [list of width and height of the blocks and their position (x and y coordinate of the bottom-left corner)]
 ```
 
-The height is minimized in the **minizinc** and in the **SMT** proposal. The SAT solver only place the bllocks given the height of the rectangle.
+The height is minimized in the **minizinc** and in the **SMT** proposal. The **SAT** solver only place the blocks given the height of the rectangle.
